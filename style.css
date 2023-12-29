@@ -89,12 +89,12 @@ body{
     font-size: 18px;
     color: #03a9f4;
 }
-.contactInfo ul li span{
+.contactInfo ul li .text{
     color: #fff;
     font-weight: 300;
     text-decoration: none;
 }
-.contactInfo ul li .text{
+.contactInfo .text{
     text-decoration: none;
 }
 
